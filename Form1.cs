@@ -5,7 +5,7 @@ namespace AccessPLC
 {
 	public partial class Form1 : Form
 	{
-		// PLC연결을 위한 정의
+		// PLC연결을 위한 정의!!
 		ActUtlTypeLib.ActUtlType ActUtilType;
 
 		public Form1()
