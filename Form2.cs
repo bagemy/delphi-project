@@ -15,7 +15,7 @@ namespace AccessPLC
 
 		private void btnConnect_Click(object sender, EventArgs e)
 		{
-			// PLC 연결을 위한 라이브러리 정의
+			// PLC 연결을 위한 라이브러리 정의!!
 			ActUtilType = new ActUtlTypeLib.ActUtlType();
 
 			// 여기의 Station 번호는 MX Component에서 설정한 번호를 정의 한다.
